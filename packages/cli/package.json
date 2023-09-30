@@ -1,0 +1,29 @@
+{
+  "name": "credenv",
+  "description": "Run a command with credential environment variables loaded from a file.",
+  "version": "1.0.0",
+  "license": "ISC",
+  "author": "Chris Ackerman <chris@topher.land>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Shakeskeyboarde/credenv",
+    "directory": "packages/cli"
+  },
+  "homepage": "https://github.com/Shakeskeyboarde/credenv/blob/main/packages/cli/README.md",
+  "type": "module",
+  "files": [
+    "lib"
+  ],
+  "bin": {
+    "credenv": "./lib/index.js",
+    "cv": "./lib/index.js"
+  },
+  "devDependencies": {
+    "@types/node": "^20.8.0"
+  },
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "dotenv": "^16.3.1",
+    "execa": "^8.0.1"
+  }
+}
