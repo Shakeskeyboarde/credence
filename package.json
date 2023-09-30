@@ -1,0 +1,20 @@
+{
+  "private": true,
+  "name": "root",
+  "description": "Run a command with credential environment variables loaded from a file.",
+  "version": "1.0.0",
+  "author": "Chris Ackerman <chris@topher.land>",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Shakeskeyboarde/credenv"
+  },
+  "scripts": {},
+  "type": "module",
+  "workspaces": [
+    "packages/*"
+  ],
+  "devDependencies": {
+    "typescript": "^5.2.2"
+  }
+}
