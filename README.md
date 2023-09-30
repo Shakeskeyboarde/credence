@@ -1,3 +1,3 @@
 # credenv
 
-Run a command with credential environment variables loaded from a file.
+See the [cli](packages/cli) workspace.
