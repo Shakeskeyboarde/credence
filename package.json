@@ -17,6 +17,7 @@
   "devDependencies": {
     "@werk/command-build": "^2.1.4",
     "@werk/command-publish": "^2.2.4",
+    "@werk/command-version": "^3.3.2",
     "eslint": "^8.50.0",
     "eslint-config-rational": "^3.0.9",
     "prettier": "^3.0.3",
