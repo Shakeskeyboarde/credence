@@ -1,3 +1,9 @@
+## 1.0.2 (2023-09-30)
+
+### Notes
+
+- Bump patch to version "1.0.2".
+
 ## 1.0.1 (2023-09-30)
 
 ### Documentation
